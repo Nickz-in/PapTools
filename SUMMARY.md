@@ -1,8 +1,6 @@
 # Table of contents
 
-* [backend\_validacao](README.md)
-* [🎨 Fluxo Visual - Recuperação de Senha](fluxo.md)
-* [bugs](bugs/README.md)
+* [bugs](README.md)
   * [Login](bugs/login/README.md)
     * [Validação](bugs/login/validacao.md)
     * [Implantação](bugs/login/implantacao.md)
